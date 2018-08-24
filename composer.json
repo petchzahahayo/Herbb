@@ -1,0 +1,17 @@
+{
+    "name": "vendor/name",
+    "description": "leave empty",
+    "authors": [
+        {
+            "name": "pongpoom",
+            "email": "pongpoom1985@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mpdf/mpdf": "^6.1"
+    },
+    "require": {
+        "imagine/imagine": "~0.5.0"
+    }
+}
