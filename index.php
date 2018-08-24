@@ -7,7 +7,7 @@ require 'connect/connectdb.php';
     <html>
         <head>
             <meta charset="UTF-8">
-            <title>ระบบเก็บข้อมูลสมุนไพร</title>
+            <title>ระบบเก็บข้อมูลสมุนไพรควย</title>
         </head>
         <body style="background-color: rgb(241, 242, 246);">
 
